@@ -1,4 +1,4 @@
-# PedMenu
+# PedMenu | <href url="https://github.com/SolarAsteroid5/pedmenu/releases/tag/v0.2">Latest Release</href>
 
 <h3>A simple menu coded in C# to change your ped model.</h3>
 
