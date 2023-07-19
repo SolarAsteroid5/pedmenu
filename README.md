@@ -7,7 +7,7 @@ if you have any suggested ped models to add to the menu then please create a git
 open a ticket in my Discord server (https://discord.gg/4b2PVqEJ5c/).
 
 <h3>Instructions</h3>
-<br><br>
+<br>
 1. Download the latest release from GitHub.
 <br><br>
 2. Copy & paste the folder "pedmenu" to your FiveM resources folder.
