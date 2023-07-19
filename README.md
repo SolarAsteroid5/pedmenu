@@ -1,6 +1,6 @@
 # PedMenu
 
-<h3>A simple menu coded in LUA to change your ped model.</h3>
+<h3>A simple menu coded in C# to change your ped model.</h3>
 
 Be aware that this menu does not have every ped model and only the ones that I find most useful,
 if you have any suggested ped models to add to the menu then please create a github suggestion or
