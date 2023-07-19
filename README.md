@@ -28,4 +28,4 @@ server.
 <br><br>
 <b>This is a script by Asteroid Scripts.</b>
 <br><br>
-<i>This script took </i><b>203</b><i> lines of code to create</i>
+<i>This script took <b>203</b> lines of code to create</i>
