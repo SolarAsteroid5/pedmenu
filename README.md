@@ -14,3 +14,5 @@ in the discussion or just let us know in the Discord server as this would be a g
 This script is open-source and you are able to reproduce it yourself and edit it, if you do edit this then
 we ask that you request permission before you release it as your own by opening a ticket in our discord
 server.
+
+This is a script by Asteroid Scripts
