@@ -27,3 +27,5 @@ we ask that you request permission before you release it as your own by opening 
 server.
 <br><br>
 <b>This is a script by Asteroid Scripts.</b>
+<br><br>
+<i>This script took </i><b>203</b><i>lines of code to create</i>
