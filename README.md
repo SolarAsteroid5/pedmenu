@@ -12,7 +12,7 @@ open a ticket in my Discord server (https://discord.gg/4b2PVqEJ5c/).
 3. Add the line "ensure pedmenu" to your server.cfg.
 4. By default this menu opens with the F5 key.
 
-<i>This menu requires NativeUI for FiveM to work, you can find this at https://github.com/FrazzIe/NativeUILua</>
+<i>This menu requires NativeUI for FiveM to work, you can find this at https://github.com/FrazzIe/NativeUILua</i>
 
 You may use this in a FiveM server without prior permission from the creator but we ask that you put comment
 in the discussion or just let us know in the Discord server as this would be a great motivation to us.
