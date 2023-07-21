@@ -1,6 +1,6 @@
 Hey Developers!
 
-Currently this script is in v0.1-alpha and we welcome you to play around and edit our script
+Currently this script is in v0.4-beta and we welcome you to play around and edit our script
 as much as you like. Please do not re-release this script without permission. If you would
 like any help with development we would be happy to help you.
 
