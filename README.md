@@ -4,7 +4,7 @@
 
 Be aware that this menu does not have every ped model and only the ones that I find most useful,
 if you have any suggested ped models to add to the menu then please create a github suggestion or
-open a ticket in my Discord server (https://discord.gg/4b2PVqEJ5c/).
+open a ticket in my Discord server (https://discord.gg/sA4Cah2nfg).
 
 <h3>Instructions</h3>
 <br>
